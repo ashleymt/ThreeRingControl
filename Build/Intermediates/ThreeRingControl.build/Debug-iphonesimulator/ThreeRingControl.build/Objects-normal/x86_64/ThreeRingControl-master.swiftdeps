@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "6c5959728cb7d19c7519df1e4bf8cac2"
+build_time: [543987214, 825133000]
+inputs:
+  "/Volumes/Element-Mac/_development/_ios/_training/ThreeRingControl/ThreeRingControl/Utilities.swift": [528387473, 0]
+  "/Volumes/Element-Mac/_development/_ios/_training/ThreeRingControl/ThreeRingControl/CircularGradient.swift": [528387473, 0]
+  "/Volumes/Element-Mac/_development/_ios/_training/ThreeRingControl/ThreeRingControl/RingTip.swift": [528387473, 0]
+  "/Volumes/Element-Mac/_development/_ios/_training/ThreeRingControl/ThreeRingControl/ThreeRingView.swift": [528387814, 0]
+  "/Volumes/Element-Mac/_development/_ios/_training/ThreeRingControl/ThreeRingControl/RingLayer.swift": [528387473, 0]
+  "/Volumes/Element-Mac/_development/_ios/_training/ThreeRingControl/ThreeRingControl/Fanfare.swift": [528392185, 0]

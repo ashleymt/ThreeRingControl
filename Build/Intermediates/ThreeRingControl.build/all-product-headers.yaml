@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Volumes/Element-Mac/_development/_ios/_training/ThreeRingControl/I/Debug-iphonesimulator/ThreeRingControl.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ThreeRingControl-Swift.h",
+          'external-contents': "/Volumes/Element-Mac/_development/_ios/_training/ThreeRingControl/I/Debug-iphonesimulator/ThreeRingControl.framework/Headers/ThreeRingControl-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ThreeRingControl.h",
+          'external-contents': "/Volumes/Element-Mac/_development/_ios/_training/ThreeRingControl/ThreeRingControl/ThreeRingControl.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Volumes/Element-Mac/_development/_ios/_training/ThreeRingControl/I/Debug-iphonesimulator/ThreeRingControl.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Volumes/Element-Mac/_development/_ios/_training/ThreeRingControl/Build/Intermediates/ThreeRingControl.build/Debug-iphonesimulator/ThreeRingControl.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
